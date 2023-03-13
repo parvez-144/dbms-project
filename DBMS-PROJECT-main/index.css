@@ -1,0 +1,57 @@
+body, .form-control, .dropdown-menu{
+    background-color: rgb(226, 226, 226);
+}
+
+#carouselExampleFade img{
+    border-radius: 1%;
+}
+
+h1{
+    color: #212529;
+    font-family: 'Courier New', Courier, monospace !important;
+    font-size: 1.78em !important;
+    text-decoration: none !important; 
+}
+body > div > main > div:nth-child(9) > div > div.row > div.col-sm-3 > img{
+
+    border-radius: 3%;
+
+}
+
+body > div:nth-child(1) > main > div:nth-child(9) > div > div.container-fluid.wow.slideInRight > div > div.col-sm-3 > img{
+    border-radius: 3%;
+}
+
+.col-sm-3 img{
+    width: 250px;
+
+}
+
+b > i{
+    font-style: normal !important;
+    font-family: 'Courier New', Courier, monospace !important;
+    
+}
+
+p{
+    margin-top: 1em;
+}
+
+h1.convenor u{
+    display: block !important;
+    box-sizing: content-box !important;
+    width: 500px;
+    padding-left: 22px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
