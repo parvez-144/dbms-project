@@ -1,0 +1,7 @@
+body, .form-control, .dropdown-menu{
+    background-color: rgb(226, 226, 226);
+}
+
+#carouselExampleFade img{
+    border-radius: 1%;
+}
